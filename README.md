@@ -10,7 +10,7 @@
     Где n - идентификатор статьи
 
 Добавить статью (метод POST):
-  POST POST http://yourdomain/api/articles/addarticle
+   POST http://yourdomain/api/articles/addarticle
 
 Обновить статью (метод PUT):
   PUT http://yourdomain/api/articles/editarticle
